@@ -16,7 +16,6 @@ This repository contains my personal implementations of the daily projects from 
 
 Each folder is named `Day_XX_Project_Name` and includes:
 - ✅ Source code (`.py` files)
-- 📄 README (if applicable)
 - 📦 Assets (images, data files, etc.)
 
 ## 🧠 Topics Covered
@@ -55,12 +54,3 @@ _(More projects coming soon...)_
 - Requests, BeautifulSoup
 - Pandas, Matplotlib
 - SMTP, JSON, APIs
-
-## 🚀 Getting Started
-
-Clone the repo and run any project:
-
-```bash
-git clone https://github.com/your-username/100-Days-100-Python-Projects.git
-cd Day_XX_Project_Name
-python main.py
